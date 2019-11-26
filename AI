@@ -1,0 +1,137 @@
+Therotical 
+AI and ML How it works 
+Machin learning Algorithms 
+List the issue of machine learning 
+Deep learning 
+typical use cases of ANN and define Artificial Neural  Network 
+examples of the artificial learning 
+
+What is AI: Computer system able to perform tasks normally requiring human intteligence 
+	
+	visual perception 
+	speach recognition
+	language transformation	
+	decision making 
+	
+Learning : Process from which system improves its performance from experienc study or being tought 
+            Basic tasks : Classification, Categorisation/clustering, problem solving , planning control , predictions others 
+            Example of classification : such as classifying humans as male female etc 
+            Example of Clustering  : Grouping  customers in different segments or grpuping species 
+            Example of Prediction : forcasting  outcome of process using data mining and probabeloity: forcastng revenue, customer churn or real estate prices 
+
+    Two aspects of learning : trainign and testing 
+      Training : is the aquicition of knowledge, skills, compitencies. It requieres examples or scenarios 
+                 in case of ML it data 
+      Testing :  To analyse how well the learned system works 
+                  performance on unknown or unseen data or scenario. Basicalu to identify issues in learned system 
+       Types of Dataset: 
+                  Training set :  used for trainign and fitment of model
+                  Validation set : used for model fine tuning and optimization
+                  Testing Set :   used to get the unbaised estimate of the skill of the final tuned model 
+                  
+
+What is Machine learning : Looking pattern in vast amouny of data thay id just big for human to analyze 
+                           it is the application that provides system ability to automatically learn and improve from experience 
+                           whithout being explicitly programmed. 
+                           It is the study of algoritm 
+                           ML algorithm builds a mathematical model of sample data known as Training data in order to make predictions
+                           or decisions withoud being explicitly programmed to perform the task 
+                           
+                           
+              
+ Approch of the Machine Learning : 
+          Training and Testing 
+          Traing : Traing data to Feature applied to ML algorithm = Created Model 
+          Tesging : Test data to applu model(Learned during Training phase) = predictions 
+
+Types Of Maching Learning 
+    Supervised machine learning   
+  
+    Unsupervised Machine Learning 
+    Reinforcement Learning 
+    Supervised and Unsupervised are widely used 
+    
+    Supervised Machine LearningL: WEll labeled and classified 
+                                   Lable data used to learn;exple say Dog picture which will if tested with cat will fail 
+           Two Types 
+            1. classification : exmaple    Support vector machines, Discriminian, Analysis, Naive Bayes, Nearest Neighbour 
+            2. Regression : examples Linear Regression GLM, Support Vector regression 
+            
+    Unsupervised Machine learning  : neither classified nor Labled.     
+                                    Labelling is not required. Model learns by grouping data baed on the features    
+            1. Clustering : example K-Means, K-Medoids, Fuzzy C-Means, Hierarchical 
+            
+            
+     
+    
+Design maching learning systems are : 
+    O=f(I): a target function f which is to be applied on input I to generate output O
+    f-> is target function(Whta is to be learned)
+    Chose how to represent target functionn
+    Chose a learning algorithm to infer the target function from the training data set 
+ 
+ 
+
+Learning Algorithm : 
+    Learning algorithm use training values for the target function
+    Learnig to approximate a continuous function is called *REGRESSION
+    Learning algoritm attempts to minimize some measure of the error "e" (loss function) such as *MEAN SQUARE FUNCTION 
+    
+    **LOSS is number indicating how bad the model predictions was on a single example. Machine learn by means of a loss function. 
+    its a method of evaluating how well specific algorithm models the given data.
+    If prediction deviates to much from the actual resurlts then loss function would have shown higher value.
+    Other examples of Loss : Mean Absolute Error, Hinge Loss, Cross Entropy Loss etc. 
+    
+TARGET FUNCTION REPRESENTATION 
+    Numeric Functions            Symbolic Functions         Instance-based functions              Probabilistic Graphical Models    
+    > Linear regression           > Decision tree           > Nearest neighbour                   > Naviw Bayes   
+    > Neural networks             > Rules in prepositional  > case - based                        > Bayesian networks 
+                                     logic  
+    > Support vector machine      >  Rules in first-order predicate logic                         > Hidden Markov models HMMs 
+                                                                                                  > Probabilistic context free Grammers (PCFGs)
+                                                                                                  > Markove Network 
+
+
+Machine learning and steps involved in it. HOW MACHINE LEARNIG WORKS 
+  Step 1: Select Data->Selects the required data set: Some imp activities in this phase are 
+                       Data collection, Data Clensing, Handlling missing data, imbalance and outliares, visualise the data, extracting data from data set
+                       The trainig data splits into theree sets further The training, the validation and testing
+  Step 2: Model Data-> An appropriate algorithm is selected to model the target function. The model is traind and fit using the exctract from the training data 
+  Step 3: Validation Model-> The model is assed using the validation data for its performance using various parameters like accuricy precision etc
+  Step 4: Test Model-> Model is tuned further to optimised performance and tested using test data 
+  Step 5: Use the Model-> Once the  performance is satisfactory the model is deployed on production for inferencing unknown data  
+  Step 6: Tune Model-> In production its performance monitored continuously The whole process is iterative to achineve the objective 
+                       or retrain the model if the data set changed or performacne degraded 
+
+
+
+ISSUES IN MACHINE LEARNING 
+      What algorithm can approximate functions well and when 
+      problem representation and feature extraction 
+      intention/independent learning 
+      transfer learning 
+      scaling issues 
+      limitations while handling unstructured data like images 
+
+DEEP LEARNING 
+      Deep learning is the artificial learning functions that immitate the working of the human brain in processin data and creating pattern for use ins decision making 
+      Deep learning is one of the machine learning method based on Artificial nueral network 
+      Deep learning uses a hirearchical level of artificial   nueral network to carry out process of machine learning 
+      Deep is technical term.. It refers to the number of layers in neural network. A shallow network has one so-called hidden layer, and a deep network has more than one 
+    
+    Deep learning technichs categorised incrementally through its hidden layer architecture defining low level categories first then little 
+    higher level categories.
+    Example image recognition 
+    
+      Layer#1 : Algorithm first learn to recognise pixels and then edges and shapes 
+    Layer#2 : Learns to identify more complex shapes and features like eyes and mouths 
+    Layer#3 : Learns which shapes and objects can be used to idntify human face 
+
+Human brain uses the patterns and features to identify the different objects  
+On the other hand Artificial nueral network learn relations between cause and effect or organize large volumes of data into orderly and informative patterns 
+
+ANN N BLN  SIMILARITY
+  
+
+
+Practical 
