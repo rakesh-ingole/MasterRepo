@@ -1,0 +1,16 @@
+Maven: Maven is open source Build/project management tool developed in Java by Apache.
+
+
+Commands 
+mvn install -DskipTests  : Will run the install command w/o executing tests 
+
+
+SPRING :  
+    0 It is a dependancy injection mechanism that is for example if class A depends on Class B instead we creating instance of B in A we
+      simply ask spring to do it.
+    0 It will create instance of Class B and it will inject into class A either throug constructor or setters&getters method whichever
+      way 
+    0 It is also called INVERSION OF CONTROL because it takes away responsibility of creating objects from our code to container. S
+    0 Spring is also kind of mini container which runs on other application server that is the reason it is called as inversion of control container. Took away control from our code onto itself 
+    0 Spring wire all the layer in together--- so we can create a DAO and inject it in Service layer or service layer to Ui example 
+
