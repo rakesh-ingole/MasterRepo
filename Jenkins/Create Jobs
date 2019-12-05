@@ -1,0 +1,3 @@
+Created simple freestyle Jenkins job and build using the execute using window batch
+echo "Hi"
+mkdir jekins --> created directory under C:\Program Files (x86)\Jenkins\workspace\Hello World\jenkins
