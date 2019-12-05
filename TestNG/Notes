@@ -1,0 +1,27 @@
+Add a plugin to the eclipse so that can create testNG resources such as classes and xmls etc
+
+<suite name="testsuite" >
+  <test name="testname">
+    <classes>
+      <class name="abcn.anc.ancs"/>
+    <classes>
+  </test>
+<suite>
+
+@BEFORE SUITE
+@BEFORE TEST
+@BEFORE CLASS
+@BEFORE METHOD
+@TEST
+@AFTER METHOD
+@AFTER CLASS
+@AFTER TEST
+@AFTER SUITE
+
+<suite name="testsuite" >
+  <test name="testname">
+    <classes>
+      <class name="abcn.anc.ancs"/>
+    <classes>
+  </test>
+<suite>

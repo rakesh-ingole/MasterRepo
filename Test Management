@@ -4,100 +4,76 @@ Test Planning
   Risk Analysis
   Test Estimations
   Test Planning
-  
-  
+
+
  Test Execution
   Test Monitoring and controlling
-  Issue management and 
+  Issue management and
   Test Report and evaluation
-  
-1. RISK ANALYSISV- WHAT IS RISK ANALYSIS- 
+
+1. RISK ANALYSISV- WHAT IS RISK ANALYSIS-
    probability Undesirable event in project. The process of analyzing risks assciated to your project
    Every project has some level risk associated to it and its always good to identify the risk well in advance
    Risk analysis is the crusial step in test management for successfull completion of project in speculated schedule and cost saving
-   
+
    Scenarion: Client ask to complete the testing in 1 month of development completed project
- 
- 
+
+
  HOW TO PERFORM RISK ANALYSIS
-  1 Idnetify Risks 
-  2 Analyze all risks and its impact 
+  1 Idnetify Risks
+  2 Analyze all risks and its impact
   3 how to nuetralize or counter those risk nothing but cootegency plan
- 
- 
+
+
  Usueaaly ther are two types of risk  Project and Prduct base.
- 
- PROJECT RISK 
-  Projecct rsiks can be defined as any undesirable/unwanted/uncertain evnet in project which impact its progress. An impact has to be 
+
+ PROJECT RISK
+  Projecct rsiks can be defined as any undesirable/unwanted/uncertain evnet in project which impact its progress. An impact has to be
   positive or negative and could effect on prospects of achieving project objectives
-  Project riks are further categories as Organisational risk, technical risk and Business riks 
-   
-    Oragnisational Risk 
+  Project riks are further categories as Organisational risk, technical risk and Business riks
+
+    Oragnisational Risk
       These are the risk related to human resources in your team. It primarily due to resouces contraint, lack of technially skilled members
       or not having enough members.
-       
-       How to counter this. 
-        How balance or is this well organised team  ?  Yes OR No 
+
+       How to counter this.
+        How balance or is this well organised team  ?  Yes OR No
             Build a stronger team and foster environment of co-opration
         How members are skilled ? Is there upskilling required?
-            Skilled the team members per the required skill in project        
+            Skilled the team members per the required skill in project
         Compare the project size and schedule and do we have enough manpower to complete the project in timemline
-     
+
      Technical Risk
        Technical Risk is the probability of loss incurred during the execution of a technical process such as untested engineering, wrong testing procedure…etc. Here is an example of technical risk
-        Your task in this project is testing a banking website. You have to set up proper test environments which mirror real business environments. If the Test Environment is not setup properly, the product will be not be tested correctly and many defects will not be detected.  
-    
+        Your task in this project is testing a banking website. You have to set up proper test environments which mirror real business environments. If the Test Environment is not setup properly, the product will be not be tested correctly and many defects will not be detected.
+
      Business Risk
       The risk involves an external entity. It is the risk which may come from your company, your customer but not from your project.
-  
-  PRODUCT RISK 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
+  PRODUCT RISK
+    
   SO FAR
-  
+
     What is risk? - undesirable/unidentified/unwanted event in projeclt that can impact project progress.
     What is risk analysis - Process of indentifying risk ans counter solution
     How to perform risk analysis?
-      idnetify risks, Analysse those and figure out potential impact associtated with and document the couter mechanism 
-    
-    Test Planning 
-      Risk Analysis 
-        > Project 
+      idnetify risks, Analysse those and figure out potential impact associtated with and document the couter mechanism
+
+    Test Planning
+      Risk Analysis
+        > Project
           > Organisation Risk
-            > Human resource problem- 
-            > Upskiling 
+            > Human resource problem-
+            > Upskiling
             > Project size and schedule vs Manpower
           > Technical Risk
-            
-          > Business Risk           
-        > Product 
+
+          > Business Risk
+        > Product
       Test Estimation
       Test Planning
       Test Organisation
     Test Execution
-      Test monitoring and controlling 
-      Issue managment 
-      Report and 
-    
-    
-  
-   
+      Test monitoring and controlling
+      Issue managment
+      Report and

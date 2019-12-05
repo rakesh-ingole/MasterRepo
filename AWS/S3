@@ -1,0 +1,22 @@
+S3 Security and Access Management
+  By default Security availabe such as buckets are accessible to the owner unless
+  mark as public, one can have bucket policies
+  Multiple access control mechanism
+  such as IAM, ACL access contrl list bucket policies
+  and query string authentication(one can create url for s3 object for specific
+  period of time so its timebound access to  the object)
+  Data is encryption in S3
+  MFA DELETE - if deleting any object the s3 ask for addition information and
+  one can restrict the deletion of the object directly
+
+S3 SECURITY - ENCRYPTION
+    encryption on storing and decryption on retrieval
+    Advance encryption standard 256 bit synetric key
+   Additional SECURITY with KMS - key Management service
+
+S2 SECURITY - MFA DELETE
+    MFA DELETE can be enable using cli and following is the request to do so
+    DELETE/myImage.jpg?versionid=**** HTTPS/1.1
+    HOST: BUCKETNEM.S3.AMAZONAWS.com
+    DATE: WED
+    AUTHORIZAIONB
