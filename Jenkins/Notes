@@ -31,4 +31,26 @@
                         We can ispect it after build has run successfully 
                         
     
+  Maven MODULES: Jenkins undertand multimodule maven projects and showcase same in jenkins dashboard  
    
+   
+  Scheduling Jenkins JObs : Automate build 
+  
+  There are two ways to schedule the job 
+  1. Schedule periodically 
+  Go to project configuration and 
+  Select "Build Trigger" to automate the build 
+  Minute Hour DOM MONTH DOW
+  
+   2. Schedule on changes in code repository 
+  Source control polling in Jenkins Job
+  Selectong the Polling checkbox one can pull latest changes for building artifacts. 
+  Specify the Schedule in terms of cron.
+  
+
+
+Views or Tabs : We can create view/multiple tabs per the project/jobs classification say one tab for freestyle project one for maven project or may be module wise 
+
+
+
+Upgrading Jenkins : Change Logs
