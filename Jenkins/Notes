@@ -1,0 +1,34 @@
+  Maven Project -- > 2Maven and Jenkins 
+    Create Maven Jenkins projects 
+    Review Build results 
+    Jenkins Maven integration 
+    Workspace for Maven projects 
+    Using Git HUb
+    
+    
+    Create Maven Project - Freestyle Maven project 
+    
+    Select Freestyle Maven project and create job
+      1                                                                           2      
+      Name the job                                                                       Another way fter name the job
+      Select Git and specify Git URL: No CREDENTIAL req as it public repo        Select Git and specify Git URL: No CREDENTIAL req as it public repo                                                               
+      Go to Build and select batch execution                                     Go to Build and Maven project    
+      "mvn clean install/package" and save the job                               Select maven version on dropdown and specify "clean package" in goals  
+      
+     3
+      AND USING Maven Integration Pluginn... 
+      Go to Manage plugin and install the Apache maven integration plugin
+      Once it installed we can see Maven project inside list of new item/job
+      Name the project and select Maven project 
+      Specify the git url : Since this is public repo credential not required 
+      Go to Build .. here we can see new option like POM and Goals.
+      Specify POM and Goals as clean package or clean install
+      Thanks
+       
+    So here Jenkins will checkout the code from the specified git repo which is hosted on git hub and fetch all the required files to workspace and perform command on it 
+    
+    What is workspace : Workspace is the place where jenkins performs active build. Each time new build created old one will be removed.
+                        We can ispect it after build has run successfully 
+                        
+    
+   
