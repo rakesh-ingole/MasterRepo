@@ -1,0 +1,10 @@
+Test and Quality analysis continuous inspection 
+
+Install all following plugins to analyse the code 
+Checkstyle 
+PMD
+FindBugs
+Enforsing through Static code analysis 
+
+
+6. Publishing Build Artifacts to an Artifact Repository
