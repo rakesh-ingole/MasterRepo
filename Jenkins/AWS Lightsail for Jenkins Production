@@ -1,1 +1,46 @@
 9. AWS Lightsail for Jenkins Production
+
+Local Jenkins isntallation :
+  Easy 
+  Cheap 
+  and limited to specific user i.e. you
+  
+AWS Lightsail
+  Production ready 
+  Internet Accessible 
+    Needed for some feature 
+    
+
+
+There several reason to started out Jenkis setup in cloud. Traditional way we installed jenkins on local server but at some point we 
+have to move beyound the local system in order to benfits others  
+
+CLOUD (Somen one else data center ) In fact companies was using cloud before it was called as cloud 
+    WE have COLOCATION :  Where companies rented space for there own hardware and data center 
+                        then we have dedicated servers where companies rent existing hardware in a data center 
+                        then virtual private servers which enables to rent only a part of that hardware which grown into 
+                        INFRASTRUCTURE AS A SERVICE IAAS where compmies providing fancy web based management of virtualized infrastructure 
+    
+    Self hosting locally in premises 
+    Rent a space for own hardware or data center --  
+    Rent a some one else existing hardware in data center -- dedicated server
+    Rent a virtualize part of some one else Hardware  
+    
+    Major cloud providers 
+    Amazon
+    Microsoft 
+    Google 
+      
+    
+    
+      
+
+
+HOW TO SETUP JENKINS IN PRODUCTION STYLE using AWS LightSail
+  AES LightSail 
+    - Inexpensive 
+    - Consistent 
+    - Free tier - first month
+   Easy 
+   
+  
