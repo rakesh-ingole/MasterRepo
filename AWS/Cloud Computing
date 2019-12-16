@@ -1,2 +1,76 @@
 Cloud
-AWS Solutions Architect - Part1
+AWS Solutions Architect - Part 1:
+
+What is cloude computing 
+Cloude computing characsteristics
+Cloude computing Architecture
+Cloude Infrastructure 
+Cloude deploymetn models 
+  1 Public cloude    2 Private cloude
+  3 Hybrid     4  Community based 
+Cloude computing SERVICE MODELS
+  SAAS    PASS   IASS
+
+ADVANTAGES
+    No need to maintain own datacenter. As one can hire it over the internet 
+    No need to spend on hardware and can demand it online over network 
+    Pay for only those resource which are utilized 
+    
+
+Where does cloude come 
+    Its nothing but multiple machine connected over network which is prexist even before it termed as clode. 
+    So whatare these multiple things its like softwares,devices, platform, infrastructure aver the internet is termed as internet and 
+    we are going to access it 
+    
+WHAT IS THE CLOUDE COMPUTING 
+  Cloude computing is on demand delivery of compute power, database, storage, applications and other it resources through cloude service 
+  platform via the internet with pay as you go pricing. 
+  
+  SO : 
+       1 On demand delivery of compute power database storage and other it resources : such as hardware hard drive space for storage, cpu for calculations or deployment, preexist deployed application over cloude
+       2 Over-internet : Means no need of any instrastructure/installation/softwares on local machine it would be need on browser and 
+         internet connectivity to access the cloide services 
+       3 Pay as you Go: so user has to pay for amount of period services consumed. No need to pay for terminated services or 
+         unutilized resources as well as hardware
+  
+  
+  
+ CHARACTERITICS OF CLOUDE COMPUTING 
+ 
+      1. On demand self service :  Basically allows user to use webserices and resources  on demand so whenever you need you'll use it.
+                                   We can logon to website anytime you need it.
+      2. Broad network access :    Since theser services are accessed over internet you can access anytime anywher on any device connected to internet.
+                                   No restriction on where and what time one can access these servie 
+      3. Location independent resource pooling :                          
+                                   Cloude computing allows multiple user to share a pool of resources so there can be multiple users 
+                                   who are going to share physical instace of project or they would be sharing database or any other 
+                                   infrastructure. So all of these will be sharing among the multiple user.
+                                   So suppose there is instance that on user using at particular time would be available to other as soon 
+                                   as user release it. So shared among the multiple user 
+      4. Rapid Elasticity :        It is very easy scalable i e if you require you need more number of instace/resources at some moment for example 
+                                   you have website running on cloude and suddenly there is high demad and access to application/website int 
+                                   that case you need more number of servers to serve the large no requests that is goint to required you to 
+                                   provision more no of servers but with cloude computing you need to worry it is going to scale up as per the
+                                   demand. So scaling on the resources is either incrreasing it or decreasing it. tHAS WHY it called as elastic 
+                                   it can shring or grow. Say for any ecommerce application sales grow up duting fetival so the no of resources or 
+                                   servers instances can grow up and once festival over it can scale down to original 
+      5. Measured Service  :       In this service cloude provider controls and monitor all the aspects of service. 
+                                   Such as Resource Optimisation 
+                                           Billing and capacity planning everything depend on what services you are going to user 
+                                           
+                                   
+ CLOUDE COMPUTING ARCHITECTURE: It comprises of two parts which is Front end and Backend    
+                                Front End basically comprises of client side part such as web browsers which will going to access the cloude
+                                computing devices which are present in the backend. 
+                                The front end connected to backend via Internet. 
+                                Backend is basically cosist of resouces that are rquired of cloude computing services it could be either 
+                                virtual machine databases or storages etc under the cloude provider control.
+                                So either for example storate or compute distributed across multiple machine in backend   
+ CLOUD INFRASTRUCTURE : cloud infrastructure consist of 
+                               Hypervisor 
+                               Management software Deployment software 
+                               Storage Servers Network etc at backend at service provider side 
+                               Hypervisor: Hupervisor usually used in order to do the virtual machine management. it allows to share single specific
+                               instace of cloude resource to serverla channels 
+     CLOUDE INFRASTRUCTURE CONTRAINTS :                              
+                               
