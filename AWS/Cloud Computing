@@ -72,5 +72,34 @@ WHAT IS THE CLOUDE COMPUTING
                                Storage Servers Network etc at backend at service provider side 
                                Hypervisor: Hupervisor usually used in order to do the virtual machine management. it allows to share single specific
                                instace of cloude resource to serverla channels 
-     CLOUDE INFRASTRUCTURE CONTRAINTS :                              
+ CLOUDE INFRASTRUCTURE CONTRAINTS :  
+                               Transperancy
+                               Scalibility 
+                               Intelligent Monitoring 
+                               Security 
+                      
                                
+CLOUD DEPLOYMENT MODEL : Cloud deployment model is specific type of environment distinguished based on the ownership, size and access.
+                         Ownership : who owns the cloud 
+                         Size : various type of resources engaged in cloud
+                         Access :  how one can access the cloud network 
+                        Common type of Cloud deployment are 
+                        Public cloud
+                        Private cloud
+                        communiity cloud
+                        Hybrid cloud
+         Public cloud : 
+         Public cloud allows system and services to be easily accessible to general public 
+         It giant such as google amazon microsoft offer clode services via interbet 
+         The clode service provider responsible for creation and ongoing maitainance of the public clode and it resources 
+         So what ever resoures which are present inside the cloude which goint to access by the users are maintained by cloud provider 
+         BENEFITS of PUBLIC CLOUD: 
+         Cost Effective: Since public cloud shares with large number of users  
+         Relibility: 
+         Flexibility: 
+         Location Independance:
+         Utility Style Costing:
+         High Scalibility; 
+         
+         
+          
