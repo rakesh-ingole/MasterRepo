@@ -94,12 +94,76 @@ CLOUD DEPLOYMENT MODEL : Cloud deployment model is specific type of environment 
          The clode service provider responsible for creation and ongoing maitainance of the public clode and it resources 
          So what ever resoures which are present inside the cloude which goint to access by the users are maintained by cloud provider 
          BENEFITS of PUBLIC CLOUD: 
-         Cost Effective: Since public cloud shares with large number of users  
-         Relibility: 
-         Flexibility: 
-         Location Independance:
-         Utility Style Costing:
-         High Scalibility; 
+         Cost Effective: Since public cloud shares same resources with large number of customer it goung to be inexpensive  
+         Relibility: Public cloud employes large no of resources from differnt locations AZS if any resouce fail then public cloude can employe another resource. For example if you have say storage on cloud so data will be stored on mutliple locatoin and. Data wont be loss
+         Flexibility: In public cloud you can force to integrate with private clode which gives customer a flexible approch. If you are going to have very secure and dont want to share which should not be access to any other user althouf public cloud have enough security for such data but user can have such data to be locate in private cloud which woudl be intedgrated with public cloud shared resouces.  
+         Location Independance: Since it is available over internet it can be accessible from anywhere 
+         Utility Style Costing: Oublic cloud is 
+         High Scalibility: Cloud resources are available from the pool of resources and hence they can ne scale up or down as per requirment 
+         DISADVANTAGE 
+         Low security and lest cutomization 
          
          
+         Private cloud:
+         Private cloud allows system and services to be accessbile within the organisation 
+		     The private cloud is operated only within a single organisation however it may be managed internaly by the organisation itself by a third party 
+		     Either you can have on premises or on the cloud deployed 
+	        If on premise then all of the hardware is also going to your premises and you only responsible for maitainting those 
+          Or you can have it on private cloud which is goiunt to be managed by third party all the hard ware will be present on cloud provider location
           
+         BENEFITS  
+         High Security and Privacy : 
+		     More control : The private cloude has more control over its resouces as compared to public cloud becoz access through within organisation  
+         Cost and energy efficient: The private cld resources are not cost effective as  the resources in public cloud but they offer more energy efficiency than the public cloud
+         Improved reliability: 
+         DISADVANTAGE
+         Limited Scalibiliy :Less scallable since resouces are privatly limited available 
+         
+         HYBRID CLOUD:
+         IT is combination of public and privage cloud
+         the critical operation performedn on private cloud and non critical on public cloud
+         BEBEFITS/ ADVANTAGES 
+         Scalibility: If you are using private cloud and suddenly there is raise in demand that case we can user public cloud to serve the demand 
+         Securiry: you have secure data that could be saved on private cloud 
+         Cost efficiencies: Public cloud are more cost effective than private therefore hybrid too
+         Flexibility: Can use public resouces  
+         DISADVANTAGE:
+         You might have sec concern that is you need to ensure the cloud services are complient with the security policies of your own orgal
+         also networking could be issue due mixing the public and private we might have somplex networking comlex firewall that you may need to user 
+         in   order use hybrid deployment model 
+         
+         
+         COMMUTNITY CLOUD
+         Community cloud allows system and services to be accessed by the group of organisations
+         it shared the infrastructure among the several organisation for specific community say schools 
+          So whaterver schools presents withing say xyz community servicess would be available for those schools  
+         it might be managed by the organisarion or by third party 
+             
+         BENEFITS ADVANTAGES
+         WSince commutnity cloud offers same advantages as of private cloud but at less cost 
+         Sharing among organisatoin ; Community cloud are cost effective which is similar to private cloud but and less cost effective 
+         Security :  Private > Community > public 
+         
+         
+CLOUD SERVICE MODELS
+        Cloud service models are defined as capabilities to the user.
+        There are 3 types of service model 
+        1 Saas   Software as a service 
+        2 Paas
+        3 Iaas
+
+        1 Saas: 
+          Where are in softwares provided on demand such as gmail or sts it could be software would be available on demand 
+        2 Paas: Platform as a service 
+          Where in would for exampel say google app engine which provide you some platform which you could use for development 
+          for instance you want to devlope some software then you do not need to install platform which you require for development on 
+          local machine you can directly you have whenever required directly access via the browser and get it. Do not required to get 
+          and installed it. Databases as Paas
+        3 IaaS: Infrastructure as a Service 
+          Whether you require copute power or network you can have resouces as required 
+          We can have inftructure as a service 
+                 
+          
+         SAAS :  
+         Saas model allows softeware applicatio as service to end user 
+         it refer to the  
