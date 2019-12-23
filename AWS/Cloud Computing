@@ -1,3 +1,22 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@rakesh-ingole 
+1
+00rakesh-ingole/MasterRepo
+ Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security Insights Settings
+MasterRepo
+/
+AWS
+/
+Cloud Computing
+ 
+
 Cloud
 AWS Solutions Architect - Part 1:
 
@@ -167,3 +186,28 @@ CLOUD SERVICE MODELS
          SAAS :  
          Saas model allows softeware applicatio as service to end user 
          it refer to the  
+
+
+
+DATABASE   
+          AMAZON RELATIONAL DATABASE SERVICES
+          AMAZON DYNAMO DB
+          AMAZON ELASTIC CACHE
+          AMAZON REDSHIFT 
+DATA MIGHRATION
+          IMPORT/EXPORT DISK
+          SNOWBALL
+          SNOWBALL EDGE
+          SNOWMOBILE 
+
+ 
+MANAGEMENT  TOOLS 
+
+          CLOUD WATHCH - MONITER AWS SERVICES OR APPLICATION RUNNING ON CLOUD. TRACK & GATHERS METRICS AND  COLLECT AND 
+                         MONITOR LOGS AND SET ALARMS 
+          CLOUD TRAIL 
+          CLOUD FORMATION 
+
+
+
+
