@@ -1,0 +1,122 @@
+History
+  1914 by Wester Union  privileges To prefer customers to  deffered payments
+  Called as Metal Money
+  
+Card Association
+  Visa & MC are not for profit orgonisation
+  Visa nd MC authorizes issuing banks such as Citi or Barclay to use cards to suppy their customer
+  City and Barclay run by board of members high level executives in banks
+Issuing and Acquiring bank
+  Issuing bank issues card to thier customers
+  Acquiring bank is bank which process card payments for products and services for merchant 
+Authorization request and response 
+  an request for authorization is sent to issuer by merchant or aquirer 
+  it may accept or decline by issuer
+Authentication
+  A cryptographic process that validates the identity and integrity of data used in smart card 
+Smart Card / Chip Card
+  A plastic card embeded with chip 
+  can hold multiple app so called also multi-Ap card
+  work as communicate info to the interface device
+  Significant computing power annd storage 
+Online Authorization
+  cardholders pin encrypted by atm/pos and sent to issuer bank for authorization
+  card cryptogram is sent to isssuer bank -- in the form of EMV
+  issuer bank finance on associated account -  such as one time limit or credit limit 
+  issuer bank sends OK or not OK
+  
+Offline Authorization
+  not like online authorization
+  transaction are sent in batch format to the processing system 
+  may every eod
+Processor 
+  third party verndor provides service such as authorization, clearing and settlement to the merchant or banks
+Host system
+  computer used by issuer acquirer verndors merchants to perform in house processing
+Interchange 
+  The fees paid by merchant to the card association or companies on the transaction made 
+  usually % of sale price 
+
+
+Card Payment Psychology 
+  Spend Now Pay later 
+  Rewards
+
+Players
+CardHolders
+
+Processors
+
+Issuing and Authorizing banks: Visa or mastercard
+Sponsers : Bank which issue the credit card 
+Your bank: banks wher payments made or merchants bank
+
+
+Systems involved
+  Card Access -  Card Transponder terminals
+  Card Rewards -  Coupen or card points
+  Program - card loyalty - supplier db , rules
+  collateral - setup card statements, print materials 
+Technology - enables all this to perfectionist
+  System 
+  processing 
+  hardware
+  firmware
+  Issuing 
+  
+  
+Complete Process - ONLINE
+        CardHolder(request a purchase form merchant)  -->
+          Merchant (the merchant submits the request to the acquirer) --> 
+            Acquirer Bank(The acquirer send request to the issuer to authorize the transaction) -->
+              Issuer(an authorizatio code send to the acquirer if there is valid credit available)-->
+                Acquier(the acquire authorize the transaction )--> 
+                  Merchant(recieves ok from acq)-->
+                    cardholder recieves the product for requested purchase 
+                      AUTHORIZATION COMPLETED
+
+BATCHING PROCESS
+  Merchant- Merchant stores all the days authoized sales in a batch 
+  Merchant- sends the batch to the acquirer to recieve payments
+  Batching complete
+  CLEARING
+    The batch is send through card n/w(visa/mc) to recieve payments form issuer
+    The card n/w distribute batch transaction to the appropriate issuers
+    the issuers substracts the interchange fees which are shared with card n/ws and transfer the amount (100-1.70=98.30)
+    Thr card n/w routes the amount to acquirer
+      CLEARING COMPLETE
+    FUNDING
+      The acquire substract the discount fees and transfer the payment to merchant (98.30-0.50 =97.80)
+      Merchant recieves payments (sales price - interchange fees - acq discount fees)
+      ************CREDIT CARD PROCESSING COMPLETES***************
+
+
+      
+      
+    
+    
+    
+  
+
+    
+        
+        
+        
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+
+  
+  
+  
+  
